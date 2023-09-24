@@ -43,10 +43,6 @@ For enhanced productivity you can also stream in the background while you write 
 3. Search for "Neatcoder".
 4. Click on "Install" to add it to your VS Code.
 
-## Usage
-
-After installation, open the command palette (`Cmd+Shift+P`) and type "Neatcoder" to access its features.
-
 ## Feedback and Contributions
 
 Your feedback is invaluable in making Neatcoder even better! Please report any issues or suggestions on our [Neatcoder Issues](https://github.com/neatwork-ai/neatcoder-issues).
